@@ -3,8 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Nagamanicoder.github.io/IBM_courrse_Learning_react",
-
+  "homepage": "https://Nagamanicoder.github.io/e-plantShopping",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
